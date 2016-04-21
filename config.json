@@ -1,0 +1,32 @@
+{
+   
+    "orientdb": {
+        "serverHost": "orientdb1.mynews.com",
+        "serverPortHTTP": 2480,
+        "serverPortBinary": 2424,
+        "serverUsername": "mynews",
+        "serverPassword": "b5fReSGNMQyD6my",
+        "databaseName": "test_steve",
+        "do_logging": true
+    },
+    "redis": {
+        "host": "redis1.mynews.com",
+        "port": 6379
+    },
+    "elastic": {
+        "host": "stage1-search.mynews.com",
+        "port": 9200,
+        "index": "dev.steve.mynews.com",
+        "startup_sniff": true,
+        "sniff_frequency": 300000
+    },
+    "aws": {
+        "accessKeyId": "akid",
+        "secretAccessKey": "secret"
+    },
+    "ironio": {
+        "token": "ZgwdP4IeRCo70X6wwz6IO6D3bus",
+        "project_id": "51cdf704ed3d7609a70016e9"
+    },
+    "assets": {} 
+}

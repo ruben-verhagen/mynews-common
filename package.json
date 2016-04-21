@@ -1,0 +1,29 @@
+{
+  "name": "mynews-common",
+  "title": "Mynews Canada Corp.",
+  "description": "This is shared architecture for Mynews sites",
+  "keywords": [],
+  "version": "0.0.2",
+  "private": true,
+  "dependencies": {
+    "validator": "~3.5.0",
+    "underscore": "~1.6.0",
+    "node-orientdb-http": "~0.1.1",
+    "node-uuid": "~1.4.1",
+    "aws-sdk": "~2.0.0-rc13",
+    "should": "~3.2.0",
+    "mocha": "~1.18.2",
+    "time": "~0.10.0",
+    "redis": "~0.10.1",
+    "slug": "~0.4.2",
+    "grunt-cli": "~0.1.13",
+    "grunt": "~0.4.4",
+    "grunt-shell": "~0.6.4",
+    "karma": "~0.12.9",
+    "grunt-karma": "~0.8.2",
+    "grunt-mocha-test": "~0.10.2",
+    "grunt-contrib-watch": "~0.6.1",
+    "coffee-resque": "~0.1.11",
+    "oriento": "~0.4.0"
+  }
+}
